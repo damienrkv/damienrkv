@@ -2,6 +2,7 @@
 Hello. My Name is Damien Rajkovic :)
 
 Trying to become a WebDev
+pushing my skills to become better and better day by day ✌️
 <!--
 **damienrkv/damienrkv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
